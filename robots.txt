@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://whitepaper.dezbet.io/sitemap.xml.gz
