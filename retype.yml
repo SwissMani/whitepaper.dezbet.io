@@ -1,14 +1,18 @@
 input: .
 output: .retype
 url: whitepaper.dezbet.io
-branding: DezBet
-  title: DezBet Docs And WhitePaper
+
+branding:
+  title: DezBet
   label: Whitepaper
-poweredByRetype: true # Set to false to remove the Powered by Retype branding.
-                      # A Retype Pro license is required.
-                      # See: https://retype.com/pro
+
 links:
-  - text: Getting Started
-    link: https://retype.com/guides/getting-started/
+  - text: GitHub
+    link: https://github.com/SwissMani/whitepaper.dezbet.io
+    icon: home
+
+edit:
+  repo: https://github.com/SwissMani/whitepaper.dezbet.io
+
 footer:
   copyright: "&copy; Copyright . All rights reserved."
