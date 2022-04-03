@@ -4,5 +4,5 @@ icon: dice
 ---
 ![](/static/headers/)
 
-# Blockchain and Gambling Today
+# 1. Blockchain and Gambling Today
 
