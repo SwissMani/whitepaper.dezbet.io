@@ -22,4 +22,4 @@ links:
 
 
 footer:
-  copyright: "&copy; Copyright DezBet. All rights reserved."
+  copyright: © Copyright {{ year }} – [DezBet](https://dezbet.io/) – All rights reserved
