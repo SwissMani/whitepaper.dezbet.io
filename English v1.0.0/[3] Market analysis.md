@@ -1,5 +1,5 @@
 ---
-order: 996
+order: 1025
 icon: magnifying-glass
 ---
 ![](/static/headers/DezBet_Market_Analysis_ENG.png)
