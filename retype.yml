@@ -7,12 +7,16 @@ branding:
   label: Whitepaper
 
 links:
-  - text: GitHub
-    link: https://github.com/SwissMani/whitepaper.dezbet.io
+  - text: DezBet
+    link: https://dezbet.io
     icon: home
+  - text: Telegram Chat
+    link: https://t.me/DezBetOfficial
+    icon: chat
+  - text: Telegram Announcements
+    link: https://t.me/DezBetAnnouncements
+    icon: bell
 
-edit:
-  repo: https://github.com/SwissMani/whitepaper.dezbet.io
 
 footer:
-  copyright: "&copy; Copyright . All rights reserved."
+  copyright: "&copy; Copyright DezBet. All rights reserved."
