@@ -5,7 +5,7 @@ Our team is made up of individuals who are young, skilled, and highly motivated.
 
 
 === Musa Mani
-![CEO](/static/MusaM.png.jpg)
+![CEO](/static/MusaM.png)
 === Vlad Arbatov
 ![CTO](/static/VladA.png)
 ===
