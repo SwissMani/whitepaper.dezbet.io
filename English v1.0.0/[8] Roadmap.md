@@ -7,11 +7,13 @@ icon:
 # 8. Roadmap
 
 [!badge size="2x1" text="2022"]
+
 [!badge variant="primary" text="Q1"]  
 - [x] business plan
 - [x] social media accounts
 - [x] whitepaper
 - [x] Website
+
 [!badge variant="primary" text="Q2"]  
 - [x] Yellow paper
 - [ ] legal assessment
@@ -19,10 +21,12 @@ icon:
 - [ ] initial content
 - [ ] building the partner network 
 - [ ] seed fund
+
 [!badge variant="primary" text="Q3"]  
 - [ ] Company legal structure
 - [ ] Add more team members
 - [ ] improve on the MVP
+
 [!badge variant="primary" text="Q4"]  
 - [x]Obtain a gambling licence.
 - [x]Release the full MVP, 
