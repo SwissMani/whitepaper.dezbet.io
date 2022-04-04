@@ -49,6 +49,7 @@ The HardCap of IDO/IEO 2 isn't fully reached, meaning all of the remaining unsol
 
 [!badge variant="primary" text="ISPO (if Hard Cap of IEO/IDO reached"]
 
+ISPO Hardcap | 110,000,000 Tokens
 ---    | ---
 ISPO Token Price goal | $0.10-0.20
 ISPO allocated Tokens | 110,000,000 Tokens (hard cap) (42.3% of allocated Offering Tokens)
