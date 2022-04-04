@@ -6,7 +6,7 @@ icon:
 
 # 5. Game Concepts
 
-|||1v100 Normal
+$|||1v100 Normal
 This is a medium-paced game. The chance of winning is $\frac{1}{x}, x \in [1, 100]$, and the winnings will total $y\cdot [x]$, $y$ being the bet amount minus fees. Each player will select a number between 1 and 100 (each number available for selection only once), and after there are 100 players in the game or the timer runs out, an algorithm chooses the winning number at random, from only the numbers that the players have selected. 
 |||
 
@@ -21,4 +21,4 @@ This is a fast-paced game. The chance of winning:  $P(ChosenSide) = P(CS) = \fra
 |||Lottery
 This is a medium-paced game. The chance of winning is $\frac{16!}{(16-5)!} , \frac{24!}{(24-5)!}, 5\frac{32!}{(32-5)!}$, and the winning total is the sum of the entries. Unlike other lotteries, which take place on a schedule, this lottery will take place whenever the first player buys a ticket. The contract then begins a timer, after which the VRF will determine the winner. Because there is no lottery authority, the winner gets everything, minus the nominal DezBet fee. If no one wins the jackpot, then it rolls over into the next lottery.
 |||
-
+$
