@@ -6,7 +6,7 @@ icon:
 
 # 5. Game Concepts
 
-|||[!badge variant="primary" text="1-versus-All a.k.a 1vN"]
+|||[!badge variant="primary" text="1-versus-All - 1vN"]
 Time-based game which allows any number of players to join. It is based around an unbounded address pool which stores the addresses of participants. 
 
 Each participant can enter the game by sending a designated amount of gas coins to the contract. After the timer expires, the job scheduler will call the winner-picking function, which in turn queries the VRF to get a random number. Modulo of this number will determine the winner, who takes all the collected funds within the contract, minus the platform fees. 
