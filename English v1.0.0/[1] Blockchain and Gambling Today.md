@@ -14,6 +14,6 @@ The decentralisation that blockchain facilitates enables blockchain gambling to 
  
 The blockchain makes gambling much safer - it is impossible for anyone to steal money that players have staked on a bet, or to defraud players by fixing the odds. The same way that one would look into the details of a cryptocurrency transaction, one can look into the details of a bet or a game, to ensure that everything is legitimate, random, reliable, and free of cheating.
  
-What all of this comes down to is simple – we are on the cusp of a revolution in gambling. Blockchain technology can set gambling free from the fraud and oligopolies that have hindered its growth and development. The only way to do that is to take a step back. Rather than competing with the gambling companies, the solution must replace them altogether, passing up on the massive profits they have been able to take for themselves, by “leaving all that money on the table,” so to speak.
+What all of this comes down to is simple – we are on the cusp of a revolution in gambling. Blockchain technology can set gambling free from the fraud and oligopolies that have hindered its growth and development. The only way to do that is to take a step back. Rather than competing with the gambling companies, the solution must replace them altogether, passing up on the massive profits they have been able to take for themselves, by “leaving all that money on the table,”.
 
 This is precisely what DezBet will achieve.
