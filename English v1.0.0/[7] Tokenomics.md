@@ -67,4 +67,4 @@ Air-Drop Token  | 2,000,000 Tokens
 Investor Tokens | 10,000,000 Tokens 
 Treasury | 100,000,000 Tokens
 
-![](/static/DezBetTokenAllocationV1)
+![](/static/DezBetTokenAllocationV1.png)
