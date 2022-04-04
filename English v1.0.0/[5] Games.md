@@ -7,7 +7,7 @@ icon:
 # 5. Game Concepts
 
 |||1v100 Normal
-This is a medium-paced game. The chance of winning is $$\frac{1}{x}, x \in [1, 100]$$, and the winnings will total $$y\cdot [x]$$, $$y$$ being the bet amount minus fees. Each player will select a number between 1 and 100 (each number available for selection only once), and after there are 100 players in the game or the timer runs out, an algorithm chooses the winning number at random, from only the numbers that the players have selected. 
+This is a medium-paced game. The chance of winning is $\frac{1}{x}, x \in [1, 100]$, and the winnings will total $y\cdot [x]$, y being the bet amount minus fees. Each player will select a number between 1 and 100 (each number available for selection only once), and after there are 100 players in the game or the timer runs out, an algorithm chooses the winning number at random, from only the numbers that the players have selected. 
 |||
 
 |||NFT Jackpot
