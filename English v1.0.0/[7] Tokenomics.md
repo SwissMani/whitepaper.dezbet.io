@@ -17,7 +17,37 @@ DezBet will follow these tokenomics.
 Max Total Supply | 512,000,000 Tokens
 ---    | ---
 Max Tokens Allocated for the Initial Offering | 260,000,000 Tokens
-IDO/IEO 1 Token planed Price | 0.05
+IDO/IEO 1 Token planed Price | $0.05
 IDO/IEO 1 Total allocated Tokens | 150,000,000 Tokens (hard cap) (57.7% of allocated Offering Tokens)
 IDO/IEO 1 Soft Cap | $750,000 (15,000,000 Tokens)
 IDO/IEO 1 Hard Cap | $7,500,000 (150,000,000 Tokens)
+
+!!!
+At this point, there are multiple directions that DezBet will take.
+!!!
+
+=== Scenario A
+The hard cap of IDO/IEO 1 is reached,  then the ISPO Phase will be initialised.
+=== Scenario B
+The soft cap of IDO/IEO 1 is reached, but < 80% of the IDO/IEO 1 hard
+cap. In this case, the remaining allocated tokens will be burned, deflating the
+total supply
+===
+=== Scenario C 
+The soft cap of IDO/IEO 1 is reached and more than 80%, of the hard cap. Then,
+there will be a Tokenholder Exclusive Vote, asking whether or not the ISPO
+Phase should be launched. If the vote is against, then the outcome is the same
+as in [Scenario B]
+=== Scenario D
+The Soft Cap of IDO/IEO 1 is not fully reached. In this case, all of the invested funds will be refunded.
+===
+=== Scenario E
+The Hard Cap of the ISPO is reached. All of the allocated tokens have been sold, and the project is at its maximum funding.
+=== Scenario F
+The HardCap of IDO/IEO 2 isn't fully reached, meaning all of the remaining unsold allocated tokens will be burned, deflating the total supply.
+===
+
+[!badge variant="primary" text="ISPO (if Hard Cap of IEO/IDO reached"]
+
+ISPO Token Price goal | $0.10-0.20
+ISPO allocated Tokens | 110,000,000 Tokens (hard cap) (42.3% of allocated Offering Tokens)
