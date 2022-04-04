@@ -53,3 +53,16 @@ ISPO Hardcap | 110,000,000 Tokens
 ---    | ---
 ISPO Token Price goal | $0.10-0.20
 ISPO allocated Tokens | 110,000,000 Tokens (hard cap) (42.3% of allocated Offering Tokens)
+
+!!!
+Overall, we will adhere to the following allcoation.
+!!!
+
+Max Total Supply | 512,000,000 Tokens
+---    | ---
+Max IDO/IEO/ISPO Token |  260,000,000 Tokens
+Team token (issued based on successful milestones) | 50,000,000 Tokens
+Marketing Token | 90,000,000 Tokens
+Air-Drop Token  | 2,000,000 Tokens
+Investor Tokens | 10,000,000 Tokens 
+Treasury | 100,000,000 Tokens
