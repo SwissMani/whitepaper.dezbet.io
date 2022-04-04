@@ -68,3 +68,4 @@ Investor Tokens | 10,000,000 Tokens
 Treasury | 100,000,000 Tokens
 
 ![](/static/DezBetTokenAllocationV1.png)
+
