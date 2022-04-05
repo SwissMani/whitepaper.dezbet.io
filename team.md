@@ -5,7 +5,7 @@ Our team is made up of individuals who are young, skilled, and highly motivated.
 
 
 === Musa Mani
-![CEO](/static/MusaM.png)
+![CEO](/static/MusaM.png) ![CTO](/static/VladA.png) ![CMO](/static/KeremU.png)
 === Vlad Arbatov
 ![CTO](/static/VladA.png)
 ===
@@ -13,7 +13,7 @@ Our team is made up of individuals who are young, skilled, and highly motivated.
 ![CMO](/static/KeremU.png)
 ===
 === Maks Kasprzyk
-![Head of Finance](/static/MaksK.png)
+![Head of Finance](/static/MaksK.png) ![CHRD](/static/MaxL.png) ![Advisor](/static/JoramK.png)
 ===
 === Max Lightowlers
 ![CHRD](/static/MaxL.png)
