@@ -23,4 +23,4 @@ industry.
 However, they have not gone far enough. This is what sets DezBet apart: We are
 developing an independent, secure gambling protocol that connects players directly to
 each other. We are not involved in any way other than facilitating transparent, fair,
-lucrative gambling, through true decentralization
+lucrative gambling, through true decentralization.
