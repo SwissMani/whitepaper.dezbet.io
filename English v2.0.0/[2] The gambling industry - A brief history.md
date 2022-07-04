@@ -4,7 +4,7 @@ icon:
 ---
 ![](/static/headers/DezBet_Gambling_Today_ENG.png)
 
-# 1. The gambling industry - A brief history
+# 2. The gambling industry - A brief history
 
 Gambling has taken place, in some form or other, for hundreds if not thousands of years, and is 
 inextricably linked to the history of humanity. From ancient China where indications of rudimentary 
