@@ -4,7 +4,7 @@ icon:
 ---
 ![](/static/headers/DezBet_Tokenomics_ENG.png)
 
-# 7. Tokenomics
+# 8. Tokenomics
 
 The DZBT Token is a utility token. Certain games on the platform can only be played using the token 
 as a means of payment. The DZBT Token is based on the BNB Smart Chain Newtwork.
