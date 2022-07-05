@@ -19,5 +19,5 @@ we are all just addresses on the blockchain which spans across the globe. DezBet
 **Here are all the Documents as Files**
 
 [!file White Paper](/doc/DezBet_White_Paper.pdf)
-[!file OnePager](/doc/DezBet_One_Pager.pdf)
-[!file YellowPaper](/doc/DezBet_Yellow_Paper.pdf)
+[!file One Pager](/doc/DezBet_One_Pager.pdf)
+[!file Yellow Paper](/doc/DezBet_Yellow_Paper.pdf)
