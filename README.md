@@ -16,3 +16,6 @@ allows everyone to be equal. The house cannot always win, if there is no house. 
 we are all just addresses on the blockchain which spans across the globe. DezBet aims to provide a inexpensive, transparent and open source protocol, which will provide entertainment to anyone with a pair of private keys and an internet connection. Times are changing, and we must change with them.
 
 
+**Here are all the Documents as Files**
+
+[!file **WhitePaper**](/doc/DezBet White Paper.pdf) [!file **One Pager**](/doc/DezBet One Pager.pdf) [!file **Yellow Paper**](/doc/DezBet Yellow Paper.pdf)
