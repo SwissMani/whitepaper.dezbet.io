@@ -21,9 +21,9 @@ the external conditions of the game.
 
 |||[!badge variant="primary" text="1-versus-All - 1vN"]
 This is a medium paced game. The chance of winning is 1 /x, X E[1, 100], and the winnings will total 
-y · [x], y being the bet amount minus fees. Each player will select a number between one and hundre 
+y · [x], y being the bet amount minus fees. Each player will select a number between 1 and 100 
 (each number available for selection only once), and after there are 100 players in the game or timer runs
-out, an algorithm chooses the winning number at random, from only the numbers that the players have
+out, an algorithm chooses the winning number at random, from the numbers that the players have
 selected.
 |||
 
