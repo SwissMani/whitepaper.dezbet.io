@@ -2,7 +2,7 @@
 label: Welcome
 icon: home
 ---
-![](/static/headers/Welcome.png)
+![](/static/headers/Banner_DezBet.png)
 
 # Welcome
 
